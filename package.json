@@ -1,10 +1,14 @@
 {
   "name": "dmy-cookie",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "cookie操作函数库",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daimingyu/cookie.js.git"
   },
   "author": "代明玉",
   "license": "ISC"
